@@ -1,0 +1,13 @@
+C:\Users\geronimo\documents\visual studio 2017\Projects\CAM\CAM\obj\Debug\CAM.Main.resources
+C:\Users\geronimo\documents\visual studio 2017\Projects\CAM\CAM\obj\Debug\CAM.MainMenu.resources
+C:\Users\geronimo\documents\visual studio 2017\Projects\CAM\CAM\obj\Debug\CAM.Properties.Resources.resources
+C:\Users\geronimo\documents\visual studio 2017\Projects\CAM\CAM\obj\Debug\CAM.RSA.resources
+C:\Users\geronimo\documents\visual studio 2017\Projects\CAM\CAM\obj\Debug\CAM.csproj.GenerateResource.Cache
+C:\Users\geronimo\documents\visual studio 2017\Projects\CAM\CAM\obj\Debug\CAM.csprojResolveAssemblyReference.cache
+C:\Users\geronimo\documents\visual studio 2017\Projects\CAM\CAM\bin\Debug\CAM.exe.config
+C:\Users\geronimo\documents\visual studio 2017\Projects\CAM\CAM\bin\Debug\CAM.exe
+C:\Users\geronimo\documents\visual studio 2017\Projects\CAM\CAM\bin\Debug\CAM.pdb
+C:\Users\geronimo\documents\visual studio 2017\Projects\CAM\CAM\obj\Debug\CAM.exe
+C:\Users\geronimo\documents\visual studio 2017\Projects\CAM\CAM\obj\Debug\CAM.pdb
+C:\Users\geronimo\documents\visual studio 2017\Projects\CAM\CAM\obj\Debug\CAM.ELGamalF.resources
+C:\Users\geronimo\documents\visual studio 2017\Projects\CAM\CAM\obj\Debug\CAM.RC4F.resources
